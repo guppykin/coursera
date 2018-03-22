@@ -40,5 +40,6 @@ def semiperimeter(side1, side2, side3):
 
 
 def sam(a,b):
+    print("Sam")
     return a+b
     
