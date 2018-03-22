@@ -41,5 +41,6 @@ def semiperimeter(side1, side2, side3):
 
 def sam(a,b):
     print ("Zach is cool, sometimes")
+    print("Sam is too")
     return a+b
     
