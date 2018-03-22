@@ -37,3 +37,8 @@ def semiperimeter(side1, side2, side3):
     '''
 
     return perimeter(side1, side2, side3) / 2
+
+
+def sam(a,b):
+    return a+b
+    
