@@ -35,5 +35,5 @@ def semiperimeter(side1, side2, side3):
     >>> semiperimeter (10.5, 6, 9.3)
     12.9
     '''
-
+    print ('something yo')
     return perimeter(side1, side2, side3) / 2
